@@ -1,2 +1,2 @@
 # substitution
-C program to create a simple encryption text for the user input
+C program to create a simple cyphertext out of user input 
